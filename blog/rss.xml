@@ -4,9 +4,16 @@
         <title>PEcAn Project Blog</title>
         <link>https://pecanproject.github.io/web/blog</link>
         <description>PEcAn Project Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Webpage Updates]]></title>
+            <link>https://pecanproject.github.io/web/blog/eshan-gsoc-blog-2021</link>
+            <guid>eshan-gsoc-blog-2021</guid>
+            <pubDate>Mon, 23 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://pecanproject.github.io/web/blog/welcome</link>
